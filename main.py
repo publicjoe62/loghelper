@@ -1,4 +1,4 @@
-__author__ = "Johannes Velmans"
+__author__ = "Public Joe62"
 
 def singleton(class_):
   instances = {}
