@@ -35,7 +35,7 @@ if __name__ == "__main__":
     print "wert 1 = %d" % m.getValue()
     m.setValue(3)
     n = MyClass()
-    print "wert 3 = %d" % n.getValue()
+    print "wert 4 = %d" % n.getValue()
 
     print "loghelper.py::main::end"
 
